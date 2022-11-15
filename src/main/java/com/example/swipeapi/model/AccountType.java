@@ -1,6 +1,4 @@
-package model;
-
-import lombok.Data;
+package com.example.swipeapi.model;
 
 import java.util.ArrayList;
 import java.util.List;

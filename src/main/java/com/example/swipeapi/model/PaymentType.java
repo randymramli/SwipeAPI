@@ -1,8 +1,4 @@
-package model;
-
-import lombok.Builder;
-import lombok.Data;
-import org.springframework.data.mongodb.core.mapping.Document;
+package com.example.swipeapi.model;
 
 import java.util.ArrayList;
 import java.util.List;
